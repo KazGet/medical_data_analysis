@@ -30,7 +30,7 @@ Selected features:
 - ESC Pre-test Probability
 - LVEDV rest
 - Cholesterol
-- [ещё один финальный признак]
+- LVESV  rest
 
 Optimized decision threshold: **0.51**
 
